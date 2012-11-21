@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Ruby on Rails | About </title> </head>
+<body>
+
+	<h1>StaticPages#home</h1>
+	<p>Find me in app/views/static_pages/home.html.erb</p>
+	<p>About us</p>
+	<p>About us</p>
+	<h1>Sample App</h1>
+	<p>About us</p>
+
+</body>
+</html>

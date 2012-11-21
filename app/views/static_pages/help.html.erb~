@@ -1,2 +1,12 @@
-<h1>StaticPages#help</h1>
-<p>Find me in app/views/static_pages/help.html.erb</p>
+<!DOCTYPE html>
+<html>
+<head> <title> Ruby on Rails | Help </title> </head>
+<body>
+
+	<h1>StaticPages#help</h1>
+	<p>Hello, you can find me in app/views/static_pages/help.html.erb</p>
+	<h1>Sample App</h1>
+
+</body>
+</html>
+
