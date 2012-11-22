@@ -12,6 +12,7 @@ describe "UserPages" do
   end
 
 	describe "profile page" do
+		let(:user) { FactoryGirl.create(:user) }
 	  # Code to make a user variable
 	  before { visit user_path(user) }
 
